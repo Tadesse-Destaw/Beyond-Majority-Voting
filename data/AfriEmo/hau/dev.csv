@@ -1,0 +1,354 @@
+text_id,text,annotator_1,annotator_2,annotator_3,annotator_4,annotator_5,label
+hausa_text_1527_emotion_1,An kashe mutane 3 a sabon hari da aka kai kauyen Katsina,"['fear', 'sadness']",['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_3238_emotion_1,Kotu ta daure mutumin da ya saci jar miya wata 1,[],['surprise'],[],['sadness'],[],[]
+hausa_text_199_emotion_1,Mtsw sai dai ma muyi murna mulkin da ba dadinsa ake ji ba 👿😈,"['disgust', 'sadness']",['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_141_emotion_1,haba wai mutane sun koma kamar dabbobi suma kamar gargin tumaki ne da za a re na ma na wayo wai sata ita gwannatin wai ita an fita wayo ne abin tambaya anfi gwannati wayo wlh Allah sai ya tambebaku domin mu amana ce mu a gareku wlh zaku amsa tambaya😭😭,"['anger', 'sadness']",['sadness'],['anger'],['anger'],['anger'],"['anger', 'sadness']"
+hausa_text_3457_emotion_1,Allah sarki Allah yabaku hankuri Ya sa aljannan makoma 🙏🙏,['sadness'],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_1665_emotion_1,Ci da buguzum: An kama su yayin da suke tsaka da yiwa jama’a fashi da bindigar bogi,['surprise'],['joy'],['disgust'],['joy'],['anger'],['joy']
+hausa_text_379_emotion_1,Allah yayiwa babbar Yayar Sule Lamido rasuwa,"['fear', 'sadness']",['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1433_emotion_1,🙆‍♂️ Shi kuwa trump me yayi zafi hk?,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1424_emotion_1,To wai Dan Allah ina ake kai kudin da ake karbowa bashi din ne? 🤔🤔,['surprise'],[],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2121_emotion_1,Hahahaha Nigeria 🇳🇬 duk shekarun da aka dauka Ana saida man fetur babu wani tsari wanda za a dinga tara kudi sai dai yan iska suyita sace kudin.,['sadness'],['anger'],"['anger', 'surprise']",['anger'],['sadness'],"['sadness', 'anger']"
+hausa_text_2899_emotion_1,Innalillahi wa inna ilaihir raji'un: Allah ya yi wa mahaifiyar Halima Atete rasuwa,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1667_emotion_1,Tabargaza: ‘Yan sanda sun rarumi wani likitan bogi bayan ya kashe mutum 2 da sunan tiyata,['surprise'],[],['disgust'],"['sadness', 'surprise']",['anger'],['surprise']
+hausa_text_1545_emotion_1,"Dan wani tsohon shugaban kasa ya aikata kuruciyar bera, ya fuskanci fushin alkali",['anger'],['anger'],['anger'],['surprise'],[],['anger']
+hausa_text_2964_emotion_1,kungiyar ASALLIN ta nemi gwamnati ta rika damawa da ita(5),[],[],[],[],[],[]
+hausa_text_3381_emotion_1,dan allah ku daina kawo mana irin wadannan labarun haushin shi buharin duk kashe kashe da ake yi a arewa yataba yin wata maganar,['sadness'],['anger'],['anger'],"['anger', 'sadness']",['anger'],"['sadness', 'anger']"
+hausa_text_2401_emotion_1,"Kisan Fatima da 'yayanta: Muna binciken bidiyon don sanin sihhancinsa, Buhari",[],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_2264_emotion_1,"Kun zabeni, kun karrama ni - Biden ya daukar wa Amurkawa muhimmin alkawari",['joy'],[],['joy'],['joy'],[],['joy']
+hausa_text_1439_emotion_1,Toh wae 🤔🤔dama KU jira kuke a kula daku,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1953_emotion_1,Akpabio Ya Ce Albashin 'Yan Majalisar Dattawa Ba Ya Isarsu Wajen Biyan Bukatunsu,[],[],['anger'],[],[],[]
+hausa_text_1479_emotion_1,Kungiyar Kiristoci Ta CAN Ta Taya Musulmai Jimamin Babban Rashi a Lokacin da Masallaci Ya Rushe a Zaria,['sadness'],['sadness'],['sadness'],['sadness'],['surprise'],['sadness']
+hausa_text_1238_emotion_1,nan kuma kunka dawo,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1485_emotion_1,Yanzun nan: An Rasa Rayuka da Yawa Yayin da Yan bindiga Suka Yi Artabu da Jami'an Tsaro,['sadness'],['fear'],['sadness'],"['anger', 'sadness']","['fear', 'sadness']","['sadness', 'fear']"
+hausa_text_1348_emotion_1,Subhanallahi Allah muntuba Allah munbarka dasu kayimana maganinsu 🤲,['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_676_emotion_1,"Ga wani ban daki da kashi ya kumbura a cikin tukunyar kashin, ga kuma tsutsar tana taaana tanata yawo a kasa saboda rashin wanki",['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_108_emotion_1,Nabi haraji da gudu 🤣🤣,['anger'],['joy'],[],['anger'],['anger'],['anger']
+hausa_text_3523_emotion_1,Duk shekarun dazatayi bazata Tara cholesterol a jikintaba😂😂😂😂,['joy'],[],[],['joy'],[],['joy']
+hausa_text_1788_emotion_1,karyar banza mtsss,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2541_emotion_1,Allah ya tsinewa makaryata 😂😂🤣🤣,['anger'],['anger'],['anger'],"['anger', 'disgust']",['disgust'],"['anger', 'disgust']"
+hausa_text_3567_emotion_1,shifa elrufai kallon bagidaje yake ma ganduje bai san kar yake kallon sa ba,[],[],[],"['disgust', 'joy']",[],[]
+hausa_text_2268_emotion_1,Aure ya yi albarka: Hotunan magidancin da ya auri mata 2 a rana guda yayin da suke murnar cika shekara 1,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_1604_emotion_1,Duk mai son jawo ma Al'ummar Annabi fitina Ubangiji Ka dorata Akanshi🤔,['anger'],['anger'],[],[],['anger'],['anger']
+hausa_text_1763_emotion_1,Da duminsa: Fusatattun matasa sun kwace jirgin saman 'yan sanda,"['anger', 'surprise']",['anger'],['anger'],[],['anger'],['anger']
+hausa_text_2383_emotion_1,"Allah ya yi wa tsohuwar jarumar Kannywood, Zainab Booth rasuwa",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_183_emotion_1,"Dogara, da ‘Yan Majalisa 11 da su ka bar Jam’iyyar da ta taimaka masu lashe zaben 2019",['surprise'],[],[],['sadness'],[],[]
+hausa_text_3331_emotion_1,allah yakaremu daga sharrinta ameen,['fear'],['fear'],['fear'],['sadness'],[],['fear']
+hausa_text_3216_emotion_1,An kama majinyaci kan zargin yin fyade ga ’yar wata 16 a gadon asibiti,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2928_emotion_1,Gwamnonin APC sun taya Buhari murnar cika shekara 77,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_714_emotion_1,Bandagin mutumin yana warin ruwan kurji.,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_804_emotion_1,Ya ci rubabben kwai,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_418_emotion_1,Hahaha an 6atar da wasu files Kenan sbd tsoron sabon chairman effcc 😅😂🤣,"['joy', 'surprise']",['joy'],[],['joy'],['joy'],['joy']
+hausa_text_1657_emotion_1,Matar da Atiku ke sumbanta mahaifiyata ce - wani bawan Allah yayi bayani,['surprise'],['disgust'],[],[],[],[]
+hausa_text_2363_emotion_1,"Wike: Tsohon Gwamnan Ribas Ya Bayyana Dalilin Da Ya Kamata APC Ta Yi Godiya Ga Allah, Ya Kuma Caccaki PDP",[],['anger'],['anger'],['joy'],['anger'],['anger']
+hausa_text_3354_emotion_1,inanillahi wainna ilaihi rajiun allah ya jikan su da rahamar sa yasa aljannace makomar su dan alfarmar annabi muhammad s a w,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_878_emotion_1,Nidai Ina gargadin kasa ta langeriya da karta kuskura ta saka kanta cicin wannan ricikin turawan domin Nan gaba bazai haifar Mata da Mai ido ba 🤔🤔 Ta koma gefe tayi shiru 😷😷,['sadness'],['fear'],['fear'],['fear'],['fear'],['fear']
+hausa_text_2969_emotion_1,Kotun Musulunci ta tsare boka kan sace motar jaruma Fati Muhammad,[],[],[],[],[],[]
+hausa_text_918_emotion_1,Fatan mu dai Allah zaunar mana da kasa lafiya. Masu zanga zanga kuma Allah basu hakuri. Tashin hankali baya kawo mafita ko yaushe. 👌🏽,['fear'],['sadness'],"['fear', 'sadness']","['fear', 'sadness']",[],"['fear', 'sadness']"
+hausa_text_547_emotion_1,Samari sun hada daba suna shaye shaye duk sun bata wurin da karan sigari,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2234_emotion_1,Wani ya bayyana yadda ya kama kaninsa da matar fasto,['disgust'],['disgust'],['disgust'],"['disgust', 'sadness']",['sadness'],"['disgust', 'sadness']"
+hausa_text_1808_emotion_1,Sarkin Damaturu ga Osinbajo: Muna addua'ar Allah yasa ka gaji Buhari a 2023,[],['joy'],[],[],[],[]
+hausa_text_904_emotion_1,To waɗannan masu gilashan sune yan takarar 😳,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_631_emotion_1,Wata me cikin tana shaƙar warin hammatar mijinta birkila da ya wuni a rana yana aiki,['disgust'],['disgust'],"['disgust', 'surprise']",['disgust'],['disgust'],['disgust']
+hausa_text_3566_emotion_1,wai daman hakan ne hakuri ana kisan alumma shine shugabanci tir da irin wanga hali na ko in kulaa,['anger'],['sadness'],['disgust'],"['disgust', 'sadness']","['anger', 'sadness']","['anger', 'sadness', 'disgust']"
+hausa_text_2945_emotion_1,Mutumin da ya yi shekara biyar yana shan fitsarinsa a birnin Landan,['disgust'],['disgust'],['surprise'],['disgust'],['disgust'],['disgust']
+hausa_text_996_emotion_1,"Allah yakawo mana karshen masifan nan, ameen 🙏",['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_3115_emotion_1,"Fani-Kayode Ya Yi Martani Kan Juyin Mulkin Gabon, Ya Ce Bai Kamata A Yi Mamakin Hakan Ba",[],[],[],[],[],[]
+hausa_text_1258_emotion_1,haba da gaske,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_164_emotion_1,"‘Dan shekara 18 ya dawo da N20.5m da ya tsinta, ya samu kyautar miliyoyi da abubuwan alheri","['joy', 'surprise']",['joy'],['surprise'],['joy'],['joy'],"['joy', 'surprise']"
+hausa_text_611_emotion_1,Kayan marmarin nan duk sunyi fumfuna har wani ruwa mai yauƙi suke fitarwa,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_261_emotion_1,Shugaba Buhari ya tura da saƙon taya murna da shugaban APC na ƙasa,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_2633_emotion_1,Hegu suna washe baki😒 sun samu dollar,['anger'],['anger'],['anger'],['anger'],['disgust'],['anger']
+hausa_text_1689_emotion_1,Jam'iyya Ta 'Kori' Shahararren Dan Takarar Shugaban Kasarta Gabanin Zaben Shekarar 2023,"['anger', 'disgust']",[],['anger'],[],['anger'],['anger']
+hausa_text_3050_emotion_1,Buhari ya taya Amurka murnar cika shekara 245 da samun ’yanci,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_89_emotion_1,"Hmmmm ku bi dai a hankali, karku buya a bayan wayon ku😏😮!!! Dan wlh idan jamaa suka gane ku daku sha mamakiii!!...😣😣","['fear', 'sadness']",['sadness'],[],['anger'],['anger'],"['sadness', 'anger']"
+hausa_text_3532_emotion_1,Lalle zamu baka mamaki yau 😂😂🤣🤣,['joy'],['surprise'],[],[],[],[]
+hausa_text_2979_emotion_1,Halin taskun da Musulmin Rohingya ke ciki a Bangladesh,['sadness'],['sadness'],['sadness'],[],['sadness'],['sadness']
+hausa_text_2295_emotion_1,"Wata mata ta tara N700,000 don taimakawa mai gidanta, shin sana'a ta fara? Ko aure ya karo?",[],[],['surprise'],[],[],[]
+hausa_text_1029_emotion_1,Allah yakawo karshen wannan rikici a jihar kano....🤲,['fear'],['fear'],"['fear', 'sadness']","['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_1770_emotion_1,Abu kamar wasa: Zakuna sun cinye mutumin da ya raine su tun suna yara a lokacin da suke wasa da shi,['surprise'],['surprise'],['surprise'],['sadness'],['surprise'],['surprise']
+hausa_text_1044_emotion_1,Allah yakawo mana karahen chutarnan a daina wannan rufe rufen Dan Al farmar wannan wata Mai Al barka🙏🏾🙏🏾🙏🏾,['fear'],['fear'],"['fear', 'sadness']","['fear', 'sadness']",['fear'],"['fear', 'sadness']"
+hausa_text_1743_emotion_1,Mu dama wuridi kuke turomana📿 yafi wannan shashancin 😒😒😒,['disgust'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_565_emotion_1,Mutumin yana lasar tafin kafarsa mai doyi,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1324_emotion_1,karyar banza kawai idan da gaskene ina kudin suke kullun burinku kutafi rantowa kasar kudin bashi kuna raba daidai da dukiyar kasa,['sadness'],['anger'],"['anger', 'surprise']","['disgust', 'sadness']",['disgust'],"['sadness', 'anger', 'disgust']"
+hausa_text_2131_emotion_1,Tirqashi! Ance Mu Nisanci Gumaka Keh Kuma Kusantarsu Ma Kike🤮🤢,['anger'],"['disgust', 'surprise']",['disgust'],['disgust'],['sadness'],['disgust']
+hausa_text_2697_emotion_1,"Kai Subhanallah 😥 Allah ya tona asirin Wanda yayi mata,Allah ka hanashi nutsuwar zuciya da kwanciyar hankali",['anger'],"['anger', 'sadness']","['anger', 'sadness']",['sadness'],['disgust'],"['anger', 'sadness']"
+hausa_text_822_emotion_1,Wata sabuwa ... inji dan chacha🚶🏻‍♂️,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2916_emotion_1,Obanikoro ya yi murnar sauya sheƙa ta ɗan sa zuwa APC,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_788_emotion_1,Kudaje na bin gyenbonsa,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_3079_emotion_1,"""Ba a Kyauta Mana"": Soja Ya Fusata Kan Kyautar da Tinubu Ya Yi Wa 'Yan Wasan Super Eagles",['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_702_emotion_1,kudaje suna tabinshi saboda yayi Kashi a wando,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_416_emotion_1,"Innalillahi wa inna ilaihi rajiun! Sarkin Rano, Autan Bawo sa'i yayi 😢😭😭 Allahu ya ƙarbi baƙuncin ka Ya gafarta maka da rahma HRH Dr Tafida Abubakar Ila Ameen ya Rahmaan. https://t.co/iBFDNKhRvh",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2562_emotion_1,Kaji shegiya 😳to Dame zeyi maki........🙊🙊🙊🙊,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2262_emotion_1,Allah Ya Yi Wa Tsohon Shugaban Jam'iyyar PDP Na Ƙasa Rasuwa A Canada,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1157_emotion_1,inna lillahi wa inna ilaihi raajioonya allah ka bamu zaman lafiya aqasarmu najeriya da kuma duniya bakidaya,['fear'],"['fear', 'sadness']",['fear'],['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_1132_emotion_1,innalillahi wa innalillahi rajiuun innalillahi wa innalillahi rajiuun rahma kiji tsoron allah all those people advising you wallahi suna sonki ne da rahamar allah wallahi ina tausaya maki ace yau ki wayi gari ki jiki cikin qabari kin koma ma allah a irin wannan yanayi,"['fear', 'sadness']",['sadness'],"['fear', 'sadness']",['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_1437_emotion_1,Ashe har yanzu a wajen BBC ma sanusi sarki ne ❤️❤️✊🏻,['surprise'],['surprise'],['surprise'],"['joy', 'surprise']",['surprise'],['surprise']
+hausa_text_3118_emotion_1,Musulunci yana samun barazana a kasar Faransa,['sadness'],['fear'],['sadness'],['disgust'],['fear'],"['sadness', 'fear']"
+hausa_text_1369_emotion_1,Wai Dan Allah wanna da gsk neh kode wasa neh kan 😑😑😑😑,['surprise'],['surprise'],['surprise'],['surprise'],[],['surprise']
+hausa_text_1636_emotion_1,Wani Bawan Allah ya fadawa Zahra Buhari ta gaida Baban ta,['surprise'],[],[],[],['joy'],[]
+hausa_text_1209_emotion_1,toh farrrr ita kuma wannan ta ina deexel yaxama bro din ta,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_245_emotion_1,"In kana duniya Abun mamaki sai ishika, Ya Allah kayi maganinsu 🤲🏽","['sadness', 'surprise']","['sadness', 'surprise']",['surprise'],['sadness'],['surprise'],"['sadness', 'surprise']"
+hausa_text_2717_emotion_1,"Koyan diban kudin Qasa akai qasashen waje, tareda tarawa magada dukiyar qasa don gudin idan anbar duniya iyali suyu talauci 🙏 I’m sorry for saying that, I can’t be control of my tongue 🙏",['sadness'],['sadness'],['anger'],['sadness'],[],['sadness']
+hausa_text_2080_emotion_1,Ku ma baku yadda ba kenan? 😊,['surprise'],['sadness'],[],[],[],[]
+hausa_text_549_emotion_1,koramar duk masu wanka cikinta kyanda ke garesu.,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2389_emotion_1,"Allah ya amince jam'iyyar APC ta gudanar da babban taro na ƙasa, Gwamna ya faɗi wani sirri",[],['surprise'],['joy'],['joy'],[],['joy']
+hausa_text_1956_emotion_1,Mummunan Hatsari Ya Laƙume Rayukan Akalla Mutum 10 a Babban Titi a Najeriya,['fear'],['sadness'],"['fear', 'sadness']",['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_1277_emotion_1,ai ba bayarwan bane shin xai isa inda ake son ya isa shine tambayan,['surprise'],[],['surprise'],['disgust'],[],['surprise']
+hausa_text_1947_emotion_1,"Keƙe da ƙeƙe: Bayan janye takara, Adamu Garba ya fidda sunayen wadanda suka tara masa N83.2m",[],['surprise'],['surprise'],[],[],['surprise']
+hausa_text_105_emotion_1,Abin haushin na da yawa😞,['sadness'],['fear'],['anger'],['anger'],['anger'],['anger']
+hausa_text_1749_emotion_1,Harin Mauludi: Tinubu ya ba da umarni a yi cikakken bincike,['anger'],[],['sadness'],[],['sadness'],['sadness']
+hausa_text_1175_emotion_1,innalillahi wa inna ilaihirrajiun allah ya kawo mana karshen tashe tashen hankulan nan allah ya ji kan su ya sa mutuwa ta zamo hutu a gare su amn,"['fear', 'sadness']",['fear'],"['fear', 'sadness']","['fear', 'sadness']",['fear'],"['fear', 'sadness']"
+hausa_text_2765_emotion_1,Allah kajanyewa duk Wanda ya janye mana tallafi🤲🤲🤲🤲🤲,['anger'],['anger'],['anger'],"['anger', 'sadness']",[],['anger']
+hausa_text_3389_emotion_1,cab muna ruwa,['sadness'],[],['fear'],['fear'],[],['fear']
+hausa_text_949_emotion_1,Innalillahi kenan muma ta shigo mana 😰 Allah ya kiyaye mu,['fear'],['fear'],"['fear', 'sadness']","['fear', 'sadness']",['fear'],"['fear', 'sadness']"
+hausa_text_219_emotion_1,"Mata mai sana'ar wankau ta gina gidan kanta, 'yan Najeriya sun taya ta murna","['joy', 'surprise']",['joy'],['joy'],"['joy', 'surprise']","['joy', 'surprise']","['joy', 'surprise']"
+hausa_text_2989_emotion_1,Atiku ya taya Gwarzuwar Hikayata ta 2020 murna,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_2445_emotion_1,"Allah mai iko: Bayan shekara 7 da aure, wata mata ta haifi 'yan 5 a Arewa",['surprise'],['surprise'],"['joy', 'surprise']",['joy'],['surprise'],"['surprise', 'joy']"
+hausa_text_441_emotion_1,"Innalilahi wainna ilaihi Raji'un gaskiya yanzudai kam nayarda, wannan tsohon ba kaunar talakawa yakeba , ba kaunar cigaban Nigeria yakeba , subahanallah , gaskiya nayi danasanin zabarka 😢","['fear', 'sadness']",['sadness'],['sadness'],['anger'],"['anger', 'sadness']","['sadness', 'anger']"
+hausa_text_2585_emotion_1,Mtwsss meh aka min ☹️ ba wani independence ah koma school kawai,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_1058_emotion_1,innalillahi wa inna ilaihi rajiun allah ya kawo mana karshe wannna masifa allah mun tuba,['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_2679_emotion_1,Gaskiya fa akwai rawan kai sosai 😂,['joy'],[],[],['joy'],[],['joy']
+hausa_text_2367_emotion_1,"A raba mu, duka take lakaɗa min har da damƙar mazakuta na, Magidanci ya yi ƙarar matarsa Fatima",['disgust'],"['sadness', 'surprise']",['fear'],"['anger', 'sadness']","['fear', 'sadness']","['sadness', 'fear']"
+hausa_text_2351_emotion_1,Dan siyasa a kasar Tanzania ya angwance da kyakkyawar mata,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_2386_emotion_1,Hanyoyi 5 da azumin sa'o'i 72 ke taimakon garkuwar jikin dan Adam,[],[],[],['joy'],[],[]
+hausa_text_1799_emotion_1,Kisan kwamandan Sojan Iran: Ayatollahi Khameini ya sanar da sabon babban kwamanda,[],['sadness'],[],['sadness'],[],['sadness']
+hausa_text_1264_emotion_1,a ss kullum inajin friends dina suna cewa malamar biology dinnan harija ce saboda bata gajiya da koyarwa idan tashigo aji nikuma bansan mesuke nufi da kalmar harija ba saina tambayesu sai sukacemin wai na tambayeta was almost ask her whats the meaning of harija,['disgust'],[],['surprise'],[],[],[]
+hausa_text_1307_emotion_1,abun mamaki bakamar a ja ba,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1933_emotion_1,Ministan Sadarwa Isa Pantami ya nesanta kansa da wasu kalmomi da yayi a baya kan Wasu ƙungiyoyin Yan ta'adda,[],[],[],[],[],[]
+hausa_text_1538_emotion_1,"Wata mata ta haɗa baki da masu garkuwa da mutane don a sace yaron kishiyarta, sai dai ƙaiƙayi ya koma kan masheƙiya","['joy', 'sadness']",['sadness'],['surprise'],"['anger', 'sadness']","['disgust', 'surprise']","['sadness', 'surprise']"
+hausa_text_3323_emotion_1,dan allah ku sake dubawa da kyau,['sadness'],[],[],[],[],[]
+hausa_text_1677_emotion_1,Trela Ta Markade Mutum 8 Da Ragunan Sallah Masu Yawa A Wani Mummunan Hatsari,"['disgust', 'fear']",['fear'],['sadness'],['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_2402_emotion_1,"Munyi Nadamar Goyon Bayan Buhari, Muna Roƙon Allah Ya Yafe Mana, Tsohon Gwamna",['sadness'],['sadness'],['anger'],['sadness'],['anger'],"['sadness', 'anger']"
+hausa_text_2333_emotion_1,"Yanzu Yanzu: Allah yayiwa tsohon gwamnan Gombe, Hashidu rasuwa",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2515_emotion_1,"TO MENENE ACIKIN WANNAN GWAMNATI INBANDA XALINCI DA KARYA DAKUMA YAUDARA, HAKIKA WANNAN GWAMNATIN AXXAKIMAICE MAKIYA ALLAH KAI TIR.... DAWANNAN BAQAR GWAMNATI. 🚶🚶🚶","['anger', 'sadness']",['anger'],['disgust'],['anger'],"['anger', 'disgust']","['anger', 'disgust']"
+hausa_text_2756_emotion_1,Kuna nufin akwai qura a ministirin A〽️ar♈a kenan?,['surprise'],[],[],[],[],[]
+hausa_text_3347_emotion_1,kai wallahi naji dadi sosai wallahi cant wait to see dear allah yakara ilimi da basira ameen,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_3195_emotion_1,Wata sabuwa: Matan Najeriya sun zo na 15 a jerin matan da suka fi iskanci a duniya a kasashen duniya,[],['surprise'],['disgust'],['sadness'],['sadness'],['sadness']
+hausa_text_1294_emotion_1,amman dai yaron yafi haka girma ko,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1329_emotion_1,tir da wannan gunki inji pmb,['anger'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1638_emotion_1,"Na cika alkawarin da na dauka wa nakasassun yan Najeriya, shugaba Buhari",[],['joy'],[],['joy'],['joy'],['joy']
+hausa_text_2421_emotion_1,Iko-sai-Allah: Wata tsaleliyar budurwa ta auri kanta-da-kanta,['surprise'],['surprise'],['surprise'],['surprise'],[],['surprise']
+hausa_text_499_emotion_1,Hahahaha 😂😂😂 Kaih jama a masu Shan wiwi zasuyi murna,"['joy', 'surprise']",['joy'],[],['joy'],['joy'],['joy']
+hausa_text_632_emotion_1,Yan daba sun sa mutane tsoma kafansu cikin masai,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2356_emotion_1,“Ina Mutunta Kudi”: Kyakkyawar Mata Ta Nunawa Duniya Mijinta Dan Dattijo a Bidiyo,[],['surprise'],['joy'],['joy'],[],['joy']
+hausa_text_1475_emotion_1,"An rusa majalisar dokoki, an rufe iyakoki, an saka dokar ta baci a Chadi","['anger', 'fear', 'surprise']",['fear'],"['fear', 'surprise']",['sadness'],['surprise'],"['fear', 'surprise']"
+hausa_text_3132_emotion_1,"Wani matashi ya hau dokin zuciya ya caka ma wani mutumi wuka, ya gamu da fushin Kotu","['anger', 'fear']","['disgust', 'sadness']",['anger'],['sadness'],['sadness'],"['anger', 'sadness']"
+hausa_text_712_emotion_1,Kudaje se bin ɓatattun kwanukan suke saboda rasahin wanki,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2580_emotion_1,😁😁hhahaha ina tausaya miki randa mulki ya bar hannunku. Karki manta kafin ya yabi ubanki saida ya yabi shekarau kuma shi ya para nuna shi a gwamnati amma da yabar gwamnati bbu irin zagin da beyi mai ba... Balle k da ubanki yapi kowa kayan zagi ..muje zuwa indai rarara ne,['sadness'],['anger'],['anger'],"['anger', 'sadness']",['disgust'],"['sadness', 'anger']"
+hausa_text_2084_emotion_1,😂🤣😄saura na kare da jaki🙄,[],[],[],[],[],[]
+hausa_text_1699_emotion_1,Yadda fasinjoji 18 suka kone kurmus a wani hatsari da afku a jihar Neja,"['disgust', 'sadness']",['sadness'],['sadness'],['sadness'],"['fear', 'sadness']",['sadness']
+hausa_text_1170_emotion_1,wayyo allah ya allah ka kawo mana karshen abun nan allah ya kawo mana kwanciyan hankali ameen,['fear'],['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear']
+hausa_text_1220_emotion_1,tayaya ta kwance ko da staye ️️️,['surprise'],['surprise'],['surprise'],[],[],['surprise']
+hausa_text_723_emotion_1,"Nazo tsallaka kwatamin, idona ya gano min wasu gundura gunduran bahaya suna iyo a sama",['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1253_emotion_1,shiyasa kikayi sabon saurayi a london,['surprise'],['surprise'],['surprise'],[],[],['surprise']
+hausa_text_3191_emotion_1,Rai banza: Sama da yayan kungiyar matsafa 20 aka halaka a jahar Edo,['sadness'],['sadness'],['anger'],['sadness'],['sadness'],['sadness']
+hausa_text_820_emotion_1,Banta6a mantawa sanda wasu Yan mata su su hudu sukayi wa wani tsoho Mai gadi fyade😥💔,"['disgust', 'sadness']",['disgust'],['disgust'],"['disgust', 'sadness']","['disgust', 'sadness']","['disgust', 'sadness']"
+hausa_text_3170_emotion_1,Rikicin Makiyaya: An kashe mutane biyu tare da kai hari gidan Manjo-Janar Malu a jihar Plateau,"['fear', 'sadness']",['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2705_emotion_1,"Jama'a shikenan mu yan North East haka banza a ka barmu. Wallahi Cutar tayi yawa, yanzu wannan maƙudan kuɗaɗen wai aikin hanyar mota za'a yi a kudancin Najeriya. Tou Allah shine gatanmu😭","['anger', 'sadness']","['joy', 'sadness']",['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_3394_emotion_1,wai su sharri kawai suke nema da mu ko kuma ya ga america can sai mutuwa suke amma mu kadai suka sa ma ido munafukai kawaii,['anger'],['anger'],['anger'],"['disgust', 'sadness']",['anger'],['anger']
+hausa_text_1903_emotion_1,Rasuwar mahaifiyar Buratai: Kalaman da Zulum ya yi ga babban hafsin sojan,[],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_3263_emotion_1,Nan da shekarar 2020 kashi 80% na al’ummar Najeriya za su kasance masu mu’amala da bankuna,[],[],[],['joy'],[],[]
+hausa_text_43_emotion_1,"😂😂😂 toh Oga Director , muna ma fatan alkhairi, ba mamaki gayyatar na nan tafe","['joy', 'surprise']",['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_1937_emotion_1,"Katsina: Yan bindiga sun sake kai kazamin hari Malumfashi jihar Katsina, sun kashe mutane","['fear', 'sadness']","['fear', 'sadness']","['fear', 'sadness']",['sadness'],"['fear', 'sadness']","['fear', 'sadness']"
+hausa_text_1079_emotion_1,allah katsare mana musulman mu nacen,['fear'],['fear'],['fear'],['sadness'],['fear'],['fear']
+hausa_text_2250_emotion_1,"Tikitin Musulmi-Musulmi: Kiristoci na da kariya saboda matar Tinubu fasto ce, inji Orji Kalu",[],[],['joy'],['joy'],[],['joy']
+hausa_text_2220_emotion_1,ta kusa fashe wa allah kasa kar ta fashe da balai,['fear'],['fear'],['fear'],['sadness'],[],['fear']
+hausa_text_758_emotion_1,Lalataccen kwan yana futar da wani koren ruwa mai wari,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_3262_emotion_1,Wata Sabuwa Kashi Na Uku (3),[],[],[],[],[],[]
+hausa_text_2637_emotion_1,Mafi yawancin su basu shirya zaman auren ba chart da bacci yake kaisu gidaden auren ba raya sunna ba 👆,['sadness'],['anger'],['anger'],['sadness'],['sadness'],"['sadness', 'anger']"
+hausa_text_440_emotion_1,Ali Nuhu ya yi wa abokansa da sauran yan Super Eagles fatan alkhairi,['joy'],[],['joy'],['joy'],['joy'],['joy']
+hausa_text_1499_emotion_1,"Katsina: Yan bindiga sun bude wuta a kan wata mota, sun kashe fasinjoji 5","['fear', 'sadness']",['fear'],"['fear', 'sadness']","['anger', 'fear', 'sadness']","['fear', 'sadness']","['fear', 'sadness']"
+hausa_text_2968_emotion_1,kungiyar direbobi a Jihar Nasarawa ta samu daukaka - Kwamared Hamza,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_2860_emotion_1,Inna lillahi wa inna ilaihi raji'un. Again kuma dai...Allah kai kasan dalili Allah mun tuba Allah ka takaita wadan nan masifu da ka jarrabi kasar mu da su😭😭,['fear'],['sadness'],"['fear', 'sadness']",['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_915_emotion_1,Hmm Allah ya kawo ma mutan Lagos sauki wannan balla'in. 😭😭😭😭😭😭😭,['fear'],['fear'],"['fear', 'sadness']",['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_821_emotion_1,"🤣😂Dama inba jaraba irin ta dan Adam ba...kai ba dabba ba amma kana yin abinda dabbobi keyi waikuma nan kai mai hankali ne,Ni naga auren da ya mutu wai saboda mijin bai sa bakin a al'aurarta matar,acewar matar """"""""""""""""""""""""""""""""ya bana kyamarsa shikuma yana kyamata""""""""""""""""""""""""""""""""?mane irin masifane haka???",['disgust'],['disgust'],"['anger', 'disgust']","['anger', 'disgust']",['disgust'],"['disgust', 'anger']"
+hausa_text_1221_emotion_1,kai kiniya rubuntun hausa ashe kinje makaranta amma danyi na turanci mugani,['surprise'],['surprise'],['surprise'],['surprise'],[],['surprise']
+hausa_text_3498_emotion_1,"Dan Allah ku daina kawo mana irin wadannan labarun haushin..😢😢, Shi buharin duk kashe- kashe da ake yi a AREWA yataba yin wata maganar, ??",['sadness'],['anger'],['anger'],"['anger', 'disgust']",['anger'],['anger']
+hausa_text_811_emotion_1,"Tashin Hankali😲 Wannan KO Anya bazata samu tobon Hankali ba kuwa """"""""""""""""""""""""""""""""Shekaru 27 fa a sume"""""""""""""""""""""""""""""""" 😱","['sadness', 'surprise']","['disgust', 'surprise']",['surprise'],"['fear', 'surprise']",['surprise'],['surprise']
+hausa_text_3411_emotion_1,mtsww karyar banza,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2952_emotion_1,‘Yan takarar shugaban kasa 12 sun taya Buhari murna,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_3309_emotion_1,"Yau bazzen manjo talakawa suna murna da samunka a duniya , alherin Allah shi kaima ka baba sarkin tausayin talaka 😂😂",['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_497_emotion_1,An kama Jarumin Nolly wood,['surprise'],[],[],['sadness'],[],[]
+hausa_text_385_emotion_1,An kawata birnin Sokoto saboda bikin diyar Sarkin musulmi,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_41_emotion_1,Yan maiduguri suna taya kowa murnan shigowa system na rashin wuta 🤗🤗,['surprise'],['joy'],[],['joy'],"['joy', 'sadness']",['joy']
+hausa_text_2368_emotion_1,Katsina: Allah ya yi wa matar marigayi Sarki Kabir Usman rasuwa,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2781_emotion_1,Me Yasa Kake Kwapsawa Don Girman Allah 😭😭,['sadness'],['sadness'],['disgust'],['sadness'],['sadness'],['sadness']
+hausa_text_3037_emotion_1,Yadda za a kula da lafiyar fata a lokacin sanyi,[],[],[],[],[],[]
+hausa_text_2359_emotion_1,Zina yake da kanwata shine ma abinda yasa ya gyara musu gidansu - Budurwa ta tonawa Fasto asiri,['disgust'],['disgust'],['disgust'],['disgust'],['sadness'],['disgust']
+hausa_text_370_emotion_1,"Soyayya: Labarin kyauta, sadaukar da kai da Maza su kayi wa Matan Twitter",['joy'],[],[],['joy'],[],['joy']
+hausa_text_2294_emotion_1,"Cikar Kwankwaso shekaru 61: Ina taya ka murna, Allah ya ƙara basira – Inji Ganduje",['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_906_emotion_1,Kamata yayi ace a fara gwajin akansa tunda shine shugaba🤷🏻‍♀️,[],[],[],['disgust'],[],[]
+hausa_text_3116_emotion_1,Wani Basaraken Kasar Mexico Ya Angwance Da Kada a Wani Kasaitaccen Biki Da Aka Gudanar,[],['joy'],['surprise'],['joy'],[],['joy']
+hausa_text_2576_emotion_1,Ku kuma yan tsulku ina ruwanku da abinda kee faruwa Shikenan bakuda aikinyi sai yada bala'i😂😂,['anger'],['anger'],['anger'],['disgust'],['sadness'],['anger']
+hausa_text_573_emotion_1,Yaro yana shan ruwan da bera ya mutu a ciki,['fear'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1529_emotion_1,Sabon hari a Jos: 'Yan bindiga sun bude wa mazauna wuta a kauyen Durbi,"['fear', 'sadness']",['fear'],['fear'],['fear'],"['fear', 'sadness']","['fear', 'sadness']"
+hausa_text_954_emotion_1,Nau ga takan fa hadda sarka ga kafanta 🦵 @user,['surprise'],[],['surprise'],['joy'],['surprise'],['surprise']
+hausa_text_1966_emotion_1,Kuji dan iska ana sacemu amma wae mawaka yake taya wa murna 😠,"['anger', 'disgust']",['anger'],['anger'],['anger'],"['anger', 'sadness']",['anger']
+hausa_text_2818_emotion_1,Kaji wata karya me rudarwa🤣🤣🤓,['joy'],[],['disgust'],['disgust'],[],['disgust']
+hausa_text_1692_emotion_1,"An Kara Kashe Bayin Allah a Jihar Arewa Duk da Sa Dokar Kulle, Atiku Ya Maida Martani Mai Zafi","['anger', 'sadness']",['sadness'],['sadness'],['fear'],['sadness'],['sadness']
+hausa_text_3508_emotion_1,"Kai😥 Allah ya sawaqe amma Ana zalunci a kasar nan wlh, saikaga nasama kokarinsa ya cuci na kasa dashi, shi bai taimaka mai ba sannan kuma anbashi yabayar kokari yake ya danne😭, Ohh Allah.🙆",['sadness'],['sadness'],"['anger', 'sadness']",['anger'],['sadness'],"['sadness', 'anger']"
+hausa_text_2375_emotion_1,Allahu Akbar: Mutumin da yafi kowa gajarta a duniya ya rasu,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2744_emotion_1,"Kutuma🤔‼️, toh alamu suna nuna cewa akwai lauje cikin nadi.",['anger'],['anger'],['surprise'],['sadness'],['surprise'],"['anger', 'surprise']"
+hausa_text_1803_emotion_1,Saraki Ya Garzaya Kasa Mai Tsarki Don Nuna Godiya Ga Allah Yayin da Zai Cika Shekaru 60 a Duniya,[],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_262_emotion_1,"Ku daina jiran masu arziki, ku auri wanda ya samu kuyi arzikin tare - Anita Joseph ta shawarci 'yan mata",['sadness'],[],[],[],[],[]
+hausa_text_276_emotion_1,"A mutu ko ayi rai: Jerin taurari 6 da suka dauki makami, su na taya Ukraine yakin Rasha","['fear', 'surprise']",[],[],['surprise'],['fear'],"['fear', 'surprise']"
+hausa_text_2119_emotion_1,Kutumelesi...Wai dama ba ita aka fara ba?🤥,['anger'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2390_emotion_1,AMAA: Jaruma Maryam Booth ta samu gagarumar lambar yabo,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_3006_emotion_1,Buhari ya aike wa Sarkin Jordan wasikar son barka,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_1969_emotion_1,Yau ranar kaza gobe ranar kaza yen yen yen..saimuga yazusuyi idan ranakun suka kare abubuwan yin basu kare ba🤣🤣🤣🤣,['sadness'],['anger'],['anger'],['anger'],[],['anger']
+hausa_text_1154_emotion_1,allahuakbar kullin nafsin zaikatul mauti allah yakawo mana karshen wanna annobar,['fear'],['fear'],"['fear', 'sadness']",['fear'],"['fear', 'sadness']","['fear', 'sadness']"
+hausa_text_2247_emotion_1,Dele Momodu: Allah ne ya tanade ni na gaji Buhari a zaben 2023,[],[],[],['joy'],[],[]
+hausa_text_2049_emotion_1,What a way to start the tenure 😀😁. Mutanen bauchi kuna cikin hatsari,['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear'],['fear']
+hausa_text_277_emotion_1,"Kirsimeti: Musulumi sun ci sun sha a gidan Fasto a Kaduna, hotuna","['joy', 'surprise']",[],['joy'],['joy'],['joy'],['joy']
+hausa_text_455_emotion_1,Mudai muna ruwa 😔 Ba damn kallo,['sadness'],['sadness'],[],['sadness'],['anger'],['sadness']
+hausa_text_1088_emotion_1,subahanallahi allah yakiyaye gaba ameen,['fear'],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_1592_emotion_1,Toh ai iyayannaki mah basusan darajan musulinchi ba tun da sukabar ki kinayin halin kafurchi ai bakiyi dana saneba tukun nama😡😡😡,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2587_emotion_1,🙆🙆 Hegge masu kuruciyar Bera,['anger'],['anger'],['anger'],['anger'],['disgust'],['anger']
+hausa_text_3303_emotion_1,- Happy birthday to ABDALLAH ❤️ Allah ya raya ka cikin amince 🎁😀 https://t.co/5PWGmVv8dX,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_1200_emotion_1,taya zaa bamu wuta kyauta,['surprise'],[],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2629_emotion_1,Kud tsiyarki bazai taba sanin kii ba🤪🤪 @user,['joy'],['sadness'],['anger'],[],[],[]
+hausa_text_393_emotion_1,Ba fulani bane ke haddasa rikicin kudancin Kaduna - Janar Buratai,['fear'],[],[],[],[],[]
+hausa_text_2405_emotion_1,Rashin Godiyar Allah: Uwa Ta Kwace Motar Da Ta Ba Diyarta Mai Shekaru 16 Kyauta a Bidiyo,[],['surprise'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2416_emotion_1,"Allah ya yiwa uwargidar Sarkin Muradun rasuwa, Buhari ya aika sakon ta'aziyya",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1267_emotion_1,abdul zo kaga wani irin kallo da takewa wannan mutumin,['surprise'],['surprise'],['surprise'],[],[],['surprise']
+hausa_text_1021_emotion_1,Subhanallah Allah ka kawo mana dauki 😢,['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_2563_emotion_1,Wallahi wasu lokutan a nigeria kowayan mutum baya cika balinta na a ce ankera mota mai amfa na da wuta 😂,['sadness'],['sadness'],[],['joy'],[],['sadness']
+hausa_text_2118_emotion_1,Sun gano duk karya ce 😂😂😂,['joy'],"['anger', 'sadness']",['anger'],[],[],['anger']
+hausa_text_1122_emotion_1,ya allahka hada kan dukkanin kasashen musulmin duniyah gabakih dayah sannan allah kakawoh karshen rashin zaman lafiyah akasashen musulmi damah duniyah gabaki dayah,['fear'],['sadness'],"['fear', 'sadness']",['sadness'],[],"['fear', 'sadness']"
+hausa_text_660_emotion_1,Matar Bata wanke bakinta hakoranta sunyi Kore Kamar gansa kuka,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2739_emotion_1,Da sunyi maguɗi zamu hana masu VISA😎,['anger'],[],[],['joy'],[],[]
+hausa_text_1156_emotion_1,allah ya kawo mana ƙarshen wannan cuta a duniya baki ɗaya,['fear'],['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear']
+hausa_text_3080_emotion_1,"Matashi Ya Rabu Da Budurwarsa Bayan Ta Yi Masa Girki Da Lalataccen Tumatir, Hirarsu Ta Yadu",[],['surprise'],['surprise'],[],[],['surprise']
+hausa_text_3059_emotion_1,Wani matashi ya rasa ransa a yayin da fulani makiyaya da manoma su ka cakusa a Nassarawa,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1124_emotion_1,allah yakara kubutar da sauran dan darajar annabi saw,['fear'],['fear'],[],"['fear', 'sadness']",[],['fear']
+hausa_text_835_emotion_1,Wai dama akwai korona har ynzu ❓,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2452_emotion_1,Mutum 15 sun tsira yayin da gini ya ruso a Kano,['joy'],"['fear', 'sadness']",['joy'],['sadness'],[],"['joy', 'sadness']"
+hausa_text_1024_emotion_1,Allah ka yaye mana wannan annoba Amin 🤲 🤲,['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_2218_emotion_1,subhanailla innalillahi waina ilaihim rajiu wannan ai ba abubane mai kyau wllh ni dai a matsayina na shiga ace an samu irin wannan abun kunya wllh,['sadness'],['sadness'],['disgust'],['disgust'],['sadness'],"['sadness', 'disgust']"
+hausa_text_2774_emotion_1,"Zaria birnin ilmi,Zaria kowa malam. Ku kanawa kunsan ku bayin mune.Akwai wata Kofa a Kano ana ce mata kofan mata,Ko kunsan tarihin kofan.Da Queen 👸Amina ta zaria taci Kano da yaki sai tace duk mata suzo su wuce ta wannan kofan sai sarki zamanin yayi shigan mata yazo ya wuce 🤣🤣",[],[],['joy'],['joy'],[],['joy']
+hausa_text_3192_emotion_1,"A garin neman gira: Matashi ya dirki kwayoyin karin kuzari, ya mutu yana lalata da budurwa",['disgust'],['disgust'],['disgust'],"['disgust', 'sadness']",['sadness'],"['disgust', 'sadness']"
+hausa_text_730_emotion_1,Yaro ya dau takardar da aka share majina yasaka a bakinsa,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2942_emotion_1,Fashewar gas ta jefa garin Ilorin cikin zullumi,['fear'],['fear'],['fear'],['fear'],['fear'],['fear']
+hausa_text_2307_emotion_1,Hajiya mai waina ta rabar da wainarta duka albarkacin nasarar Buhari (Hotuna),['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_352_emotion_1,Mai bada shawara na musamman a fannin lafiya ga gwamnan Kwara ya yi murabus,"['sadness', 'surprise']",[],['surprise'],['sadness'],['sadness'],"['sadness', 'surprise']"
+hausa_text_3342_emotion_1,lallai wannan waka tayi dadi ina yinki rahma,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_2041_emotion_1,Kai Jama’a gwamnan namu😂😅 wai suma sai da suka wanki gara,['joy'],['sadness'],['surprise'],['joy'],['surprise'],"['joy', 'surprise']"
+hausa_text_1172_emotion_1,allah ubangiji yabaka lafiya mu kuma allah yakaremu,['fear'],['sadness'],"['fear', 'sadness']","['fear', 'sadness']",[],"['fear', 'sadness']"
+hausa_text_432_emotion_1,Me tabayyana Dan gutsun uwarta 😠😠,['anger'],['disgust'],['anger'],['anger'],['anger'],['anger']
+hausa_text_2859_emotion_1,Subhanallah! Ya allah ka cecemu😢,['fear'],['fear'],['fear'],['sadness'],['sadness'],"['fear', 'sadness']"
+hausa_text_2107_emotion_1,end this show kafin alura ya tono galma 😂😂😂😂 wait I’m having a good time sha 😂 amma dai nasan ankusa ayi abun kunya,['joy'],[],['joy'],['joy'],[],['joy']
+hausa_text_197_emotion_1,"Shawara: Idan kana taimako, sai Allah Ya kara maka arziki, Inji Aliko Dangote","['fear', 'joy']",[],[],[],['joy'],['joy']
+hausa_text_2858_emotion_1,"Ya Rabbul Alamin, ka kawo mana karshen wannan annobar dake damun mu. Amin.🤲",['fear'],['fear'],['fear'],['sadness'],[],['fear']
+hausa_text_657_emotion_1,Yayi wanka da ruwan rafin da Yan gari ke bahaya a ciki,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2227_emotion_1,Kana taka Allah na tashi: Ango ya mutu kwanaki kadan bayan ya auri kyakkyawar amaryar shi,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_3559_emotion_1,a wane jaha badai kano bah chab wallahi zai sha mamaki,['surprise'],['surprise'],['surprise'],"['joy', 'surprise']",[],['surprise']
+hausa_text_962_emotion_1,"Allah muntuba,Allah kakawo Mana dauki.😭🙏🤲",['fear'],['fear'],['fear'],"['fear', 'sadness']",['sadness'],"['fear', 'sadness']"
+hausa_text_1017_emotion_1,Allah ya kawo mana karshen wan nan masifar Ameen🙏🏽,['fear'],['fear'],['fear'],"['fear', 'sadness']",[],['fear']
+hausa_text_357_emotion_1,Annobar Corona: Sultan ya bayyana bacin rai da yadda gwamnoni suka bude wuraren ibada,"['anger', 'fear']",['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_3504_emotion_1,Devils. Su fuskanci hukunci mai tsanani. Yaro dan shekara 5 😭😭.,['anger'],['anger'],"['anger', 'sadness']",['sadness'],"['anger', 'sadness']","['anger', 'sadness']"
+hausa_text_2413_emotion_1,Amfanin Goruba 10 ga lafiyar jikin dan Adam,[],[],[],[],[],[]
+hausa_text_253_emotion_1,"Hmm, mu ba subsidy ne damuwar mu ba🤷, ya za'a yi a samu sauqin wahalar da talakawa suke ciki🤷",['fear'],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_2840_emotion_1,Wai Shi'a tafi Sunnah.🤔 Lallai ka koma Karatu Kuma Kamaida hankali Nonsense..😏,['sadness'],['anger'],"['anger', 'surprise']",['anger'],['anger'],['anger']
+hausa_text_6_emotion_1,"Very unfortunate! Dama ai mafi yawan su, suna amfani da wannan damar ne domin suci zarafin talaka ! Saboda ni shaida ne akan irin wannan mummunar d'abi'ar ta mafi yawan jami'an tsaron kasar nan, samun damar shigar su aikin tsaro tamkar lasisin cin zarafi ne😡","['anger', 'sadness']",['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_263_emotion_1,Dalilin da ya sa na daina zuwa yin jaje Zamfara – Yariman Bakura,['fear'],[],[],[],[],[]
+hausa_text_1608_emotion_1,Ƙarya kike☹️ You miss abroad dai coz of coro🤣🙄 Zaman gida dole 🇳🇬😜😜,"['anger', 'joy']","['anger', 'joy']",[],"['anger', 'joy']","['anger', 'joy', 'surprise']","['anger', 'joy']"
+hausa_text_1205_emotion_1,toh fa kin dawo ambassadorn infinix ne,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_2398_emotion_1,"Ba zai taba zama shugaban kasa ba, Fasto ya yiwa gwamnan wata jiha baki",['anger'],['sadness'],['anger'],['disgust'],['anger'],['anger']
+hausa_text_2922_emotion_1,Shekara 60: Daular Larabawa ta taya Najeriya murna,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_2393_emotion_1,"Bayan ɗirka mata ciki ta haifi jariri, Saurayi ya lakaɗawa budurwarsa dukan tsiya har ta koma ga Allah",['sadness'],['sadness'],"['disgust', 'sadness']",['sadness'],"['disgust', 'sadness']","['sadness', 'disgust']"
+hausa_text_3410_emotion_1,allah ka tsinewa ganduje ka tsinewa duk wani da yakeda hannu da duk wani dayaji dadin cire sarki da duk wani dayaji haushi domin na tsinewa ganduje shege dan karya allah ka yada cutar corona virus a gidan gwamnatin jihar kano da kano state house of assembly,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_1379_emotion_1,Allah yamana tsari da wannan annoba Dan alfarmar annabin rahama s a w🤲🤲,['fear'],['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear']
+hausa_text_552_emotion_1,Yarinyan na cin abinci cikin kwanon da ke wari kuma cike da tsutsa,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_3129_emotion_1,Wani dan acaba da aka kama ya yi luwadi da yara 6 ya hadu da fushin kotu,['disgust'],"['anger', 'disgust']",['disgust'],"['disgust', 'sadness']",['disgust'],['disgust']
+hausa_text_3005_emotion_1,Makarantar Hidayatul Muslimin ta Akim Kalaba ta yaye dalibanta,['joy'],[],[],[],[],[]
+hausa_text_3264_emotion_1,Kashi 90 na shinkafar da ke Najeriya 'yar gida ce -RIFAN ,[],[],[],['joy'],[],[]
+hausa_text_3097_emotion_1,Sauya Sheka: Fusatattun Sanatocin APC Sun Gana da Buhari a Aso Rock,[],['anger'],[],[],[],[]
+hausa_text_3452_emotion_1,Congrats muna masa fatan Alheri 🤗,['joy'],['joy'],['joy'],['joy'],[],['joy']
+hausa_text_1622_emotion_1,Ministan Buhari ya ce akwai alheri da yawa a yarjejeniyar Twitter da Najeriya,['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_3228_emotion_1,Jami'ar OAU ta dakatar da malami kan lalata da daliba,['disgust'],['disgust'],['disgust'],"['disgust', 'sadness']",['disgust'],['disgust']
+hausa_text_1446_emotion_1,shekarun mamanta? Sannan nawane shekarun babanta?Kina da damar turawa abokanka ma'abota lissafi don neman amsa🤔🤔🤔?,['surprise'],[],['surprise'],['surprise'],[],['surprise']
+hausa_text_389_emotion_1,wato banki yan iska neh aswear 🤣🤣🤣 and they don’t take your money sai kinyi niyan ciran wani “special amount” sai ki ji “insufficient funds” 😂😂😂,"['anger', 'sadness']",['joy'],['anger'],['anger'],['anger'],['anger']
+hausa_text_1174_emotion_1,allah yakiyaye nagaba rahama adinga kulawa kuma,['fear'],['fear'],[],['sadness'],[],['fear']
+hausa_text_1766_emotion_1,‘Yan bindiga: Mutum 50 ake tsoron an kashe a karamar Hukumar Faskari,['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear'],['fear']
+hausa_text_862_emotion_1,anya kuwa rahama kin damu da abinda akaiwa kuwa ana jimami amma kawaii tallata mati a zazzau kike 😂😂🤣🤣,['surprise'],[],['surprise'],"['disgust', 'sadness']",['surprise'],['surprise']
+hausa_text_3509_emotion_1,🤣🤣🤣tirr gwamnati na hukunci,['anger'],['disgust'],['disgust'],['disgust'],['anger'],"['anger', 'disgust']"
+hausa_text_2706_emotion_1,Kwado ya fada ruwan Xafi😂,[],[],[],['joy'],[],[]
+hausa_text_1647_emotion_1,"Sabuwar shekara na dauke da juna biyun abubuwa masu kyau ga yan Najeriya, gwamna Masari","['joy', 'surprise']",['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_2817_emotion_1,Rakumi girman ka na banza dan akuya ya fika duwaiwai. 😅,[],['anger'],['anger'],['joy'],[],['anger']
+hausa_text_934_emotion_1,Ya Allah ka kawo mana karshen wannan masifa albarkacin annabi Muhammad S A W A 💟👋,['fear'],['fear'],['fear'],['fear'],['sadness'],['fear']
+hausa_text_3484_emotion_1,Ku kirashi a waya mana. 🤔,[],[],[],[],[],[]
+hausa_text_2652_emotion_1,😂😂 haba sai kace ana hauka shine wallai Nigeria an raina matasa yoh dan shekara 71 daya kamata ace yana jiran mutuwarsa come n see😩😂,['sadness'],['anger'],['anger'],"['anger', 'disgust']",[],['anger']
+hausa_text_1391_emotion_1,"Wai me kuka dauke mu ne🙄❗, ta Yaya xaku kwatanta mutumin da ya yi shekaru biyar da doriya da mutumin da ko rantsar da shi ba'a yi ba❗🙄🤔",['surprise'],['anger'],['surprise'],"['disgust', 'sadness']",['anger'],"['surprise', 'anger']"
+hausa_text_1334_emotion_1,hamm koma meye wannan gmb shiya jawa kansa muna nuna masa so amma baya son mu sai yan kudi ‍️‍️,['sadness'],['anger'],['surprise'],['sadness'],['sadness'],['sadness']
+hausa_text_1519_emotion_1,Sabon harin 'yan bindiga: An kashe mutane 19 a Kaduna,['disgust'],['fear'],['fear'],"['anger', 'sadness']","['anger', 'sadness']","['fear', 'anger', 'sadness']"
+hausa_text_40_emotion_1,Innalillahi Wa'inna Ilaihi Raji'un: Usman Abubakar yayi luwadi da 'ya'yan uban gidanshi su 10 a jihar Sokoto,"['disgust', 'fear']",['disgust'],"['disgust', 'sadness']",['disgust'],"['anger', 'disgust']",['disgust']
+hausa_text_3415_emotion_1,kaji ƴan iskan banza da wofi kun je kunyi iskancin ku zaku rainawa mutane hankali abin ɓoye ne ya fito fili allah ya sawwaƙe amin,['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_3042_emotion_1,Bello Muhammed Bello zai yi kwal-kwabo domin cika alkawari,[],['surprise'],[],[],[],[]
+hausa_text_616_emotion_1,Miyar Kuka tayi Kore kalar zawayin jariri,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1036_emotion_1,"Subhanalli,Allah ya kawo mana dauki🤲",['fear'],['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear']
+hausa_text_2809_emotion_1,Ina ga Nigeria nan gaba Dan north Korea 🇰🇷 zamu je mu dauko yazo ya mulke kawai musha wahalan kowa ya gyaru,['sadness'],['anger'],[],"['disgust', 'sadness']",['anger'],"['sadness', 'anger']"
+hausa_text_698_emotion_1,Dattijo mara lafiya na bara yana nuna ruɓaɓɓen kafan sa a titi,['disgust'],"['disgust', 'sadness']",['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_515_emotion_1,Yaran yayi kashi a cikin dakin duk yabata bangon dakin,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_890_emotion_1,Shekara dubu arba'in har da uku fa kuka ce😲?,['surprise'],['surprise'],['surprise'],['surprise'],['surprise'],['surprise']
+hausa_text_1106_emotion_1,toh allah ubangiji ya kawo mana karshen wan nan fitintinun ya allah ka tausaya mana don rahamar ka,['fear'],['fear'],['fear'],"['fear', 'sadness']",['fear'],['fear']
+hausa_text_1761_emotion_1,Buhari zai tafi Abu Dhabi don taya sabon Shugaban UAE murna,['joy'],['joy'],['joy'],['anger'],['joy'],['joy']
+hausa_text_1073_emotion_1,to allah ya shiga tsakanin nagari da mugu,['fear'],[],['fear'],['sadness'],['fear'],['fear']
+hausa_text_2941_emotion_1,Hamza Al-Mustapha ya kai wa Wike ziyara a Fatakwal,[],[],[],[],[],[]
+hausa_text_2111_emotion_1,Halan suna zuwa da Sabin qafafu ne da Zan saye gwanjon takalmin da tsada Haka🙄,['surprise'],[],['anger'],['anger'],['anger'],['anger']
+hausa_text_3197_emotion_1,Yanzu Yanzu: Gwamnatin Zamfara ta tabbatar da sace dalibai mata da yan bindiga suka yi,['sadness'],"['fear', 'sadness']",['anger'],['sadness'],['sadness'],['sadness']
+hausa_text_3292_emotion_1,innalillahi wa'inna ilaihiraji'un Allah ya gafarta masa mu kuma ALLAH ka rabamu da mummunan karshe🤲,['sadness'],['sadness'],"['fear', 'sadness']",['sadness'],['sadness'],['sadness']
+hausa_text_653_emotion_1,Mutanen daji sun samo rubabben biri suna ci,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_2400_emotion_1,Allah Ya Yiwa Wani Tsohon Mataimakin Gwamna A Najeriya Rasuwa,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_1360_emotion_1,Buhari yahau ana murna kuma zae sauka ana murna 🤔🤔🤔,['surprise'],['surprise'],['surprise'],[],['surprise'],['surprise']
+hausa_text_1776_emotion_1,Ma'aikatan banki sun hadu da fushin doka bayan sun sace kudin mamaci a bankinsu,['anger'],['anger'],['disgust'],[],['anger'],['anger']
+hausa_text_1037_emotion_1,Tofa😲😲😲 Allah Ya kawo mana karshen waɗannan fitintinun. Amiin,"['fear', 'surprise']",['fear'],"['fear', 'surprise']","['fear', 'sadness', 'surprise']","['sadness', 'surprise']","['fear', 'surprise', 'sadness']"
+hausa_text_3136_emotion_1,Innalillahi: 'Yan bindiga sun yiwa diyar sarauta a Ibadan kisan gilla sun tsere,['sadness'],['sadness'],['fear'],['sadness'],['sadness'],['sadness']
+hausa_text_3315_emotion_1,Ya subhanallahi 😭💔Allah ya jiqansu ya gafarta musu ameen,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_665_emotion_1,Muna cin abinci tazo wuce da kashi cikin poo,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1931_emotion_1,"""Mun Rantse Ba Zamu Rabu Ba"" Budurwa Ta Kaiwa Saurayinta Da Ya Haukace Abinci, Bidiyo Ya Kayatar",['anger'],['surprise'],"['joy', 'surprise']",[],['sadness'],['surprise']
+hausa_text_2935_emotion_1,Mutumin da ya bai wa matar da yake so kodarsa ta ki aurensa,['sadness'],['surprise'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2688_emotion_1,Ashe har kafi dangote ma suna a duniya........ Tramadol in action 🤣🤣🤣🤣🤣 https://t.co/dS90d9muV0,['surprise'],['anger'],"['anger', 'surprise']",['joy'],[],"['surprise', 'anger']"
+hausa_text_1658_emotion_1,ASUU ta ce za ta zura ido ta ga ko Gwamnatin Tarayya za ta cika duk alkwuran da ta dauka,"['fear', 'sadness']",[],[],[],[],[]
+hausa_text_3058_emotion_1,Yanzu Yanzu: Buhari yayi ta’aziyya ga kasar Algeria kan hatsarin jirgin sama da ya kashe mutane 257,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2419_emotion_1,"Okorocha ga Buhari: Ka fatattaki dukkan masu mukami da hadimanka, sun gaza",['anger'],['anger'],['anger'],['anger'],['anger'],['anger']
+hausa_text_3352_emotion_1,allah subhanahu wataàla yajikansu yakuma gafartamusumukuma allah yakyautata karshenmu ya rabbalalameen,['sadness'],['sadness'],['sadness'],['sadness'],[],['sadness']
+hausa_text_281_emotion_1,Ina matukar godiya - Ali Nuhu ya godewa masoya bisa ta'azziyar rashin mahaifinsa,['joy'],['joy'],['joy'],"['joy', 'sadness']",['joy'],['joy']
+hausa_text_2461_emotion_1,Kwastoma da abokansa sun kashe Karuwa Musulma don sun ga Al-Qur'ani cikin dakinta,['sadness'],"['disgust', 'sadness']",['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_3203_emotion_1,Ambaliyar ruwa ta lalata gidaje sama da 200 a Taraba,['sadness'],['sadness'],['fear'],['sadness'],['sadness'],['sadness']
+hausa_text_1284_emotion_1,me ya sa da kano za su fara,['surprise'],[],['surprise'],['surprise'],[],['surprise']
+hausa_text_789_emotion_1,An aje dirom din kashi a kofar gidansa,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_909_emotion_1,Hmm waya ga ya masu Borno gabas take?😂😂😂,['surprise'],[],[],['sadness'],[],[]
+hausa_text_1339_emotion_1,wai wannan kazantace ko kuma rashi iya wanki amma ki canza bai miki makeup saboda kinfara likin,['surprise'],['disgust'],"['disgust', 'surprise']","['disgust', 'sadness']",['disgust'],"['surprise', 'disgust']"
+hausa_text_2482_emotion_1,Benue: Ɗan shekaru 44 ya cire ƴaƴan marainansa da kansa don daƙile tsabar sha'awarsa,['disgust'],['surprise'],['surprise'],['sadness'],['disgust'],"['disgust', 'surprise']"
+hausa_text_1463_emotion_1,"Yajin aiki: Mun cika wa ASUU dukkan alkawurran da muka dauka, FG",[],['joy'],[],['joy'],['joy'],['joy']
+hausa_text_745_emotion_1,Ammar nake jira yazo mu tatse hanjin akuyar.,['disgust'],['disgust'],['disgust'],['disgust'],[],['disgust']
+hausa_text_2814_emotion_1,"Hmm, suma yan Nigeria 🇳🇬, ku zauna a qasar ku, kun ki? Gashi yanzu ana ta kashe ku 😞",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2810_emotion_1,Banga laifin suba Dan yan damfara sunyi yawa a Nigeria 🇳🇬 Amma 99% duk yan kudan chin Nigeria ne,['sadness'],['sadness'],[],['sadness'],[],['sadness']
+hausa_text_2175_emotion_1,"Haha 😁😁😋 Nigeria is a joke.. So,mun mata da Allah mahallaci mun koma rokon halittas sa.... Wallahi har naji kunya, Allah wadaran naka ya lalace",['anger'],['anger'],['disgust'],['disgust'],['sadness'],"['anger', 'disgust']"
+hausa_text_3023_emotion_1,Ranar Yara Mata ta Duniya Tare da Zulaihat Muhammad,[],[],[],[],[],[]
+hausa_text_2221_emotion_1,nifa da gani nake kamar karya ne da akace mutane dayawa a africa suna da ciwon kwakwalwa amma bayan turama mawakan nan kudi toh yanzu fa na yarda masu ciwon kwakwalwan ma sunfi yawa a nijeriya,['sadness'],['sadness'],['anger'],"['disgust', 'sadness']",['sadness'],['sadness']
+hausa_text_931_emotion_1,Tohfah SubhanAllah. A kasar tamu mai tsarki 🙆🏽‍♂️?,['surprise'],['surprise'],['surprise'],['surprise'],"['disgust', 'surprise']",['surprise']
+hausa_text_664_emotion_1,Uwar gidan sa ta bashi ruwan kashi yasha,['disgust'],['disgust'],['disgust'],['disgust'],['disgust'],['disgust']
+hausa_text_1929_emotion_1,Buhari ya yi ta’aziyyar mutuwar Uwargidar sarkin Daura da tsohon kwamishinan shari’a na Kano,['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_3437_emotion_1,ni ko kadan hakan bai bani mamaki ba domin kuwa vazu dauki rayukan yankin arewa a baki komai ba hakan ya kara tabbatar mana da mulkin kama karya ake yi mana allah ya kaimu lokacin zabe maga shegen da zai zo mana arewa campaign,"['anger', 'sadness']",['sadness'],['anger'],['anger'],['sadness'],"['anger', 'sadness']"
+hausa_text_2212_emotion_1,"Shawarata ga baba shine Dan Allah a duba talakan Nigeria musamman 'yan arewa wallahi ana cikin mawuyacin hali, yanzu sai kaga magidanci ya koma almajiri sbd kawai bashi da abin yi km ga iyali,yara kanana suna bin gidaje suna barar abin da zasu saka a bakinsu😭😭😭😭",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_2116_emotion_1,Ni Yasin kowa sai an mai dinnan taban daria over😂 dagaji kasan dan iskane kawai ya rubuta😂,['joy'],['joy'],"['anger', 'joy']",['joy'],[],['joy']
+hausa_text_2287_emotion_1,"Inna Lillahi wa inna Ilaihi raji’un: Allah ya yi ma Sule Katagum, Wazirin Katagum 95, rasuwa",['sadness'],['sadness'],['sadness'],['sadness'],['sadness'],['sadness']
+hausa_text_3580_emotion_1,Mutumin da yaci mutuncin addinin ne zai jinjina wa shuwagabannin ta☹️lallai akwae tuka da warwara💯,['sadness'],['anger'],"['anger', 'surprise']",['disgust'],['sadness'],"['sadness', 'anger']"
+hausa_text_1252_emotion_1,shi a abuja akabarshi kenan,['surprise'],['surprise'],"['sadness', 'surprise']",['surprise'],[],['surprise']
+hausa_text_3528_emotion_1,Abun mamaki har yanzun a 2021 akwai masu sauraran jawabin Buhari. 🤣,['surprise'],['surprise'],['surprise'],"['disgust', 'sadness']",['surprise'],['surprise']
+hausa_text_1361_emotion_1,"Abinda ya dace kenan MaiGirma Gwamna yayi. Allah yasa suma wadanda yayi ma'amalla dasu, suyi koyi da shi 😭😭😭 Ya-Allah mun tuba.",['fear'],"['fear', 'sadness']","['fear', 'sadness']","['joy', 'sadness']",[],"['fear', 'sadness']"
+hausa_text_2531_emotion_1,Dan uwarsa yaga munyi kama da yan nigeria ne😁😁😁😁,"['anger', 'disgust']",['anger'],['anger'],['joy'],['anger'],['anger']
+hausa_text_3105_emotion_1,"Duk da komawa APC, da alamu Fani-Kayode zai fuskanci fushin kotu saboda badakala",['anger'],['anger'],[],"['joy', 'sadness']",[],['anger']
+hausa_text_1516_emotion_1,Labarin wata mata da tsutsotsi ke fita daga jikin ta kullum a Najeriya,['disgust'],['disgust'],['disgust'],['surprise'],"['disgust', 'sadness']",['disgust']
+hausa_text_3465_emotion_1,"Masha Allah Yayi dai dai, A masayina dan Borno nai farin ciki, Allah ya karbi Adu'armu,🤲🤲",['joy'],['joy'],['joy'],['joy'],['joy'],['joy']
+hausa_text_129_emotion_1,Tabbb wannan ya taro fushin Ubangiji da kansa 🤔,['fear'],['anger'],['fear'],['fear'],['anger'],"['fear', 'anger']"
+hausa_text_845_emotion_1,Tab yaushe rabon jilan rakumi da kasa😁,['surprise'],['surprise'],['surprise'],['surprise'],[],['surprise']
+hausa_text_849_emotion_1,Wata sabuwa trump fa yana so yayi inconclusive🤣🤣,['surprise'],['surprise'],['surprise'],"['joy', 'surprise']",['surprise'],['surprise']
+hausa_text_3160_emotion_1,An yiwa Lakcara korar kare bayan ya nemi lalata da dalibar shi,['disgust'],['disgust'],['anger'],['disgust'],['disgust'],['disgust']
+hausa_text_2194_emotion_1,"Abun dariya, daman ana sulhu da barayi ne😲🤔 ikon Allah",['surprise'],['surprise'],"['joy', 'surprise']",['surprise'],['surprise'],['surprise']
+hausa_text_2237_emotion_1,"Mijina ya yi min ƙaryar nice matarsa ta biyu, alhalin nice ta shida - Mata ta shaidawa kotu",['sadness'],['surprise'],['anger'],"['anger', 'surprise']",['sadness'],"['sadness', 'surprise', 'anger']"
+hausa_text_46_emotion_1,"Ban San Adadin Mutanen Da Na Kashe Ba, In Ji Aliyu, Dan Shekara 24 Da Ake Zargi Da Fashi","['disgust', 'fear', 'surprise']",['disgust'],['disgust'],['fear'],"['anger', 'sadness', 'surprise']","['disgust', 'fear', 'surprise']"
+hausa_text_1558_emotion_1,Wata Mata ta yi ma mijinta dukan tsiya har sai daya fadi matacce a Kano,"['fear', 'sadness', 'surprise']",['disgust'],['surprise'],"['disgust', 'sadness']","['sadness', 'surprise']","['sadness', 'surprise', 'disgust']"
+hausa_text_1591_emotion_1,Tashin hankali: Wani matashi ya cakawa abokinshi kwalba a kahon zuci akan guntuwar giya,"['disgust', 'fear', 'surprise']",['anger'],"['disgust', 'surprise']","['anger', 'sadness']","['fear', 'sadness']","['disgust', 'fear', 'surprise', 'anger', 'sadness']"
